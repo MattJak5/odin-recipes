@@ -1,2 +1,3 @@
 # odin-recipes
-basic recipe website using HTML
+Basic recipe website using HTML
+I will be using html to create a website with a few recipes demonstrating the use of lists (<ul> <ol> <li>), images <img>, and relative links <a>. 
