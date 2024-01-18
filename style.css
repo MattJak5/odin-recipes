@@ -8,6 +8,8 @@ font-family: monaco, "courier new", monospace;
     font-weight: 800;
 }
 
+
+
 .description{
     text-align: center;
     font-weight: 400;
@@ -46,4 +48,11 @@ font-family: monaco, "courier new", monospace;
         line-height: 1.6;
     }
 
-    
+    div{
+        background-color: rgba(0, 0, 255, 0.587);
+        border-color: red;
+        border-style: dashed;
+        border-width: 20px;
+        
+
+    }
